@@ -1,0 +1,11 @@
+Points of Attack for Hackathon
+
+We are creating a Wikipedia spell checker as a Chrome extension
+
+1. Learn how to make a chrome extension
+2. Create GitHub repository
+3. Find an english language database
+4. Code a way to access that database
+5. Code a spellchecker for all lowercase words. Ignore capital proper nouns, words in quotation marks, hyperlinked words.
+6. Code a wikipedia article processor—process the text check it.
+7. Code a way to display red bars under wrong words
